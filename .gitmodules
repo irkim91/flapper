@@ -1,5 +1,5 @@
 [submodule "01_firmeare/crazyflie-firmware-Nimble"]
-	path = 01_firmeare/crazyflie-firmware-Nimble
+	path = 01_firmware/crazyflie-firmware-Nimble
 	url = https://github.com/irkim91/crazyflie-firmware-Nimble.git
 [submodule "02_libraries/crazyflie-lib-python"]
 	path = 02_libraries/crazyflie-lib-python
