@@ -1,24 +1,18 @@
-[submodule "crazyflie-firmware-Nimble"]
-	path = crazyflie-firmware-Nimble
+[submodule "01_firmeare/crazyflie-firmware-Nimble"]
+	path = 01_firmeare/crazyflie-firmware-Nimble
 	url = https://github.com/irkim91/crazyflie-firmware-Nimble.git
-[submodule "firmware/crazyflie-firmware-Nimble"]
-	path = firmware/crazyflie-firmware-Nimble
-	url = https://github.com/irkim91/crazyflie-firmware-Nimble.git
-[submodule "libraries/crazyflie-lib-python"]
-	path = libraries/crazyflie-lib-python
+[submodule "02_libraries/crazyflie-lib-python"]
+	path = 02_libraries/crazyflie-lib-python
 	url = https://github.com/irkim91/crazyflie-lib-python.git
 [submodule "02_libraries/crazyflie-clients-python"]
 	path = 02_libraries/crazyflie-clients-python
 	url = https://github.com/irkim91/crazyflie-clients-python.git
-[submodule "04_references/PX4-Autopilot.git"]
-	path = 04_references/PX4-Autopilot.git
+[submodule "05_reference/PX4-Autopilot"]
+	path = 05_reference/PX4-Autopilot
 	url = https://github.com/irkim91/PX4-Autopilot.git
-[submodule "04_references.ardupilot"]
-	path = 04_references.ardupilot
+[submodule "05_reference/ardupilot"]
+	path = 05_reference/ardupilot
 	url = https://github.com/irkim91/ardupilot.git
-[submodule "04_references/ardupilot"]
-	path = 04_references/ardupilot
-	url = https://github.com/irkim91/ardupilot.git
-[submodule "04_references/betaflight"]
-	path = 04_references/betaflight
+[submodule "05_reference/betaflight"]
+	path = 05_reference/betaflight
 	url = https://github.com/irkim91/betaflight.git
